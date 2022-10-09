@@ -1,0 +1,19 @@
+Class 140 coding notes
+
+~~~~~
+
+<a> = link
+href = src
+
+data-toggle = create alignment to popup 
+data-target = what should open up
+
+fade = fade
+
+model-dialog = give bg color to be white and curved edges to modal (modal is pop up)
+model-content = gives padding and margin to content, header and body
+
+---
+
+&times = x sign
+data-dismiss = close the modal
